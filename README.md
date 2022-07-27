@@ -4,6 +4,21 @@
 
 My interest into Machine Learning, Data visualization growth bigger after My University course about Machine Learning in Physics, I understand the power of Data and algorithm, discover subtle details in huge amount of Data using ML is one of the most interesting thing in ML. I see my career committed into field of Data, and I'm looking for a place to start my Data career journey. Currently I'm looking position in Data Analyst.
 
+## Projects
+
+### Big Tech Companies events transcript NLP and NLU
+
+#### [Apple-WWDC-over-years](https://github.com/andy3278/Apple-WWDC)
+[<img src='https://github.com/andy3278/NLP-Apple-Event-March-8-2022/raw/main/output/output2.png' alt='Apple-March-event' height='300'>](https://github.com/andy3278/NLP-Apple-Event-March-8-2022)
+
+#### [Galaxy-Unpacked-February-2022](https://github.com/andy3278/Galaxy-Unpacked-February-2022-NLP)
+
+[<img src='https://github.com/andy3278/Galaxy-Unpacked-February-2022-NLP/raw/main/output1300.png' alt='Galaxy-Unpacked-February' height='300'>](https://github.com/andy3278/Galaxy-Unpacked-February-2022-NLP) 
+
+#### [Nvidia-GTC-2022](https://github.com/andy3278/GTC-2022-keynote)
+
+[<img src='https://github.com/andy3278/GTC-2022-keynote/blob/main/wordcloud_nvidia.png?raw=true' alt='NVIDIA-GTC-2022' height='300'>](https://github.com/andy3278/GTC-2022-keynote) 
+
 Skills: Python | SQL | Excel | Tableau | Power BI | 
 
 - 🌱 I’m currently learning Computer Vision 
