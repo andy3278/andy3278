@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Andy Cheung 🤓
-#### I am a Data enthusiast, I do a little bit of everything~
+# Hi there 👋, I'm Andy Cheung 🤓
+## Data is my passion, I Collect, Analyse and Visualize.
 ![I am a Data enthusiast, I do a little bit of everything~](https://pbs.twimg.com/profile_banners/1455376389314543622/1645251428/1500x500)
 
 My interest are Machine Learning🤖, Data visualization📊. 
