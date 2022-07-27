@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Andy Cheung
 #### I am a Data enthusiast, I do a little bit of everything~
-![I am a Data enthusiast, I do a little bit of everything~](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Data enthusiast, I do a little bit of everything~](https://pbs.twimg.com/profile_banners/1455376389314543622/1645251428/1500x500)
 
 My interest into Machine Learning, Data visualization growth bigger after My University course about Machine Learning in Physics, I understand the power of Data and algorithm, discover subtle details in huge amount of Data using ML is one of the most interesting thing in ML. I see my career committed into field of Data, and I'm looking for a place to start my Data career journey. Currently I'm looking position in Data Analyst.
 
