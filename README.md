@@ -24,6 +24,16 @@ I used Python API to scrap text transcript of the events from Youtube, then load
 
 [<img src='https://github.com/andy3278/GTC-2022-keynote/blob/main/wordcloud_nvidia.png?raw=true' alt='NVIDIA-GTC-2022' height='300'>](https://github.com/andy3278/GTC-2022-keynote) 
 
+## Dashboard
+
+[<img src='https://github.com/andy3278/Maven-Airline-Data-analysis/raw/main/image/Maven-airline-report.png' alt='dashboard' height='700'>](https://github.com/andy3278/Maven-Airline-Data-analysis) 
+
+[Link to Tableau Public](https://public.tableau.com/views/Maven-Airline/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+[<img src='https://github.com/andy3278/Maven-Telecom-Customer-Churn-Data-analysis/raw/main/Churn%20Report%20(2).png' alt='dashboard' height='700'>](https://github.com/andy3278/Maven-Telecom-Customer-Churn-Data-analysis) 
+
+[Link to Tableau Public](https://public.tableau.com/views/MavenTelecomChurnChallenge_16583945314820/ChurnReport2?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
 Skills: Python | SQL | Excel | Tableau | Power BI | 
 
 - 🌱 I’m currently learning Computer Vision 
